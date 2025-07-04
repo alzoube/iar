@@ -1,0 +1,7 @@
+{
+    "select lesson":[],
+    "objects":["lighter","lantern","bottle","bucket","hat"],
+    "furniture":["table", "chair",  "fan", "clock"],
+    "verbs":["clap", "climb", "fly", "throw", "crawl" ],
+    "sport" :["swim", "racket", "jump", "run"]
+}
